@@ -22,7 +22,7 @@ function App() {
           Learn React
         </a>
       </header>
-      {/* <MessengerCustomerChat pageId="101249441233215" appId="3664419150244134"/>, */}
+      <MessengerCustomerChat pageId="101249441233215" appId="3664419150244134"/>,
     </div>
   );
 }
